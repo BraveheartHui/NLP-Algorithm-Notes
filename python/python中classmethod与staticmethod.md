@@ -1,5 +1,5 @@
 # python 中staticmethod和classmethod
-@staticmethod和@classmethod是python中的两个装饰器（装饰器理解请见：[python装饰器](https://blog.csdn.net/u014568072/article/details/88929105)）。
+@staticmethod和@classmethod是python中的两个装饰器（装饰器理解请见：[python装饰器](https://github.com/BraveheartHui/NLP-Algorithm-Notes/blob/master/python/python%E8%A3%85%E9%A5%B0%E5%99%A8.md)）。
 
 `@staticmethod`将函数转换成为一个静态方法，`@classmethod`将函数转换成为一个类方法。
 
